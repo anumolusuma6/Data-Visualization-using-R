@@ -1,6 +1,6 @@
 # Lower Mainland Air Quality Analysis Dashboard
 ## Overview
-The Lower Mainland Air Quality Analysis Dashboard is a Power BI project designed to visualize and analyze daily average air pollution concentrations and temperature data collected from various monitoring stations in the Lower Mainland. This project provides insights into air quality trends and their potential impact on public health.
+The Lower Mainland Air Quality Analysis Dashboard is a robust analytical tool developed using R, designed to analyze and visualize air quality data collected from multiple monitoring stations. This project focuses on key variables such as ozone (O3), nitrogen dioxide (NO2), and temperature, with data segmented by Health Authority (HA) and Health Service Delivery Area (HSDA). The aim is to provide insights into air pollution levels and their variation across different regions in the Lower Mainland over a specified period.
 
 ### Data Source
 The dataset comprises real observations of air quality parameters and temperature collected between October 15-21, 2022. The data were sourced from the BC Air Data Archive website (BC Air Data Archive), which provides current and historical data on ambient air quality and meteorological conditions across British Columbia.
